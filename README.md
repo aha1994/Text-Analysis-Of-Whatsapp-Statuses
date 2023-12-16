@@ -8,6 +8,6 @@ Provided files: environment packages in req.txt, code as a ipynb file, report as
 
 Preview:
 
-![alt text](filename)
+![alt text](https://github.com/aha1994/Text-Analysis-Of-Whatsapp-Statuses/blob/main/Pictures/WordCloud.png)
 
-![alt text](filename)
+![alt text](https://github.com/aha1994/Text-Analysis-Of-Whatsapp-Statuses/blob/main/Pictures/Results.png)
